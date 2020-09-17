@@ -1,0 +1,14 @@
+# Platform related ignores
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.
+
+# Capistrano
+log/capistrano.log
+
+# Credentials, uploads and cache
+wp-config.php
